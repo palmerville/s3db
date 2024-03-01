@@ -1,2 +1,2 @@
 # s3db
-Use S3 as a simple KV json store.
+S3 as a simple KV json store using mongo inspired syntax.
